@@ -1,30 +1,31 @@
 <img  src="../../assets/code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px;">
 
-## JavaScript Arrays Drills
+# JavaScript Arrays Drills
 
-These drills are to reenforce what you just learned about JavaScript arrays.
 
-### The Set Up
+## The Set Up
 
 - You will need to create a new repository.
-- Create new file called `Prompts.JS`
-- Copy and paste prompts from lab into new file.
 - Make sure to number the prompts you are answering in order to identify what is being answered.
-- Complete the prompts below.
+
 
 ### The Tasks
+
+#### Exercise One
+
+- Create new file called `Prompts.JS`
 
 1. Read the steps below and code
 
    - Declare an array named `songs` that contains five different names of songs as strings.
 
-   - Access the _first_ song in the array and print it to the console
+   - Access the **first** song in the array and print it to the console
 
-   - Now do the same with the _third_ song in the array.
+   - Now do the same with the **third** song in the array.
 
      > Stage, commit, and push changes. Let Git be on your team.
 
-   - Write one line of code that changes the value of the _last_ song in the array to `"Happy"` (overwriting the previous value).
+   - Write one line of code that changes the value of the **last** song in the array to `"Happy"` (overwriting the previous value).
 
    - Create a new variable called `jamFour` and set it equal to the fourth song in the array.
 
@@ -32,7 +33,7 @@ These drills are to reenforce what you just learned about JavaScript arrays.
 
      > Stage, commit, and push changes. Let Git be on your team.
 
-   - Add another song to the _beginning_ of the array.
+   - Add another song to the **beginning** of the array.
 
    - Print the length of the array to the console
 
@@ -49,15 +50,25 @@ These drills are to reenforce what you just learned about JavaScript arrays.
 
 2. Stage, commit, and push changes. Let Git be on your team.
 
-3. Declare an array of at least 6 integers. Create a function that will sort the integer array in _ascending_ and _descending_ order.
+<br>
 
-4. Stage, commit, and push changes. Let Git be on your team.
+#### Exercise Two
 
-5. Create a list of your favorite movies, music, or video games using a multidimensional array.
+- Create new file called `numbers.js`
 
-   - First decide on the genres Ex: For movies - action, thriller, comedy. Need at least 3 genres.
+1. Declare an array of at least 6 integers. Create a function that will sort the integer array in _ascending_ and _descending_ order.
 
-   - Add titles to each genre. At least 4 titles/genre
+2. Stage, commit, and push changes. Let Git be on your team.
+
+#### Exercise Three
+
+3. Create a list of your favorite movies, music, or video games using a multidimensional array.
+
+   - First decide on the genres. Need at least 3 genres.
+   
+      - Ex: For movies - action, thriller, comedy. 
+
+   - Add titles to each genre. At least 2 titles per genre
 
    - Create a series of statements to access elements
 
@@ -67,4 +78,5 @@ These drills are to reenforce what you just learned about JavaScript arrays.
 
      - Using `for` loops, iterate through the arrays and print the elements to the console.
 
-6. Stage, commit, and push changes. Let Git be on your team.
+4. Stage, commit, and push changes. Let Git be on your team.
+
