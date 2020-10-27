@@ -1,6 +1,4 @@
-<img  src="../../assets/code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px;">
-
-# JavaScript Arrays Drills
+# JavaScript Arrays Lab
 
 
 ## The Set Up
@@ -79,4 +77,3 @@
      - Using `for` loops, iterate through the arrays and print the elements to the console.
 
 4. Stage, commit, and push changes. Let Git be on your team.
-
