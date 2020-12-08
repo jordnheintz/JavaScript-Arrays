@@ -1,13 +1,32 @@
 # JavaScript Arrays Lab
 
+# Table of Content
 
-## The Set Up
+- [Javascript Arrays](#javascript-arrays)
+- [Table of Content](#table-of-content)
+  - [Javascript Arrays Lab](#Javascript-arrays-lab)
+    - [Prerequisites](#prerequisites)
+    - [The Set Up](#the-set-up)
+    - [The Task](#the-task)
+  - [Submission](#submission)
 
-- You will need to create a new repository.
+## JavaScript Arrays Lab
+
+### Prerequisites
+
+- JavaScript Fundamentals
+
+### The Set Up
+
+- You will need to make a new repository.
+- Create new file called `Prompts.JS`
+- Copy and paste prompts from lab into new file.
 - Make sure to number the prompts you are answering in order to identify what is being answered.
+- Complete the prompts below.
 
+**Make a commit after each prompt you complete.**
 
-### The Tasks
+### The Task
 
 #### Exercise One
 
@@ -77,3 +96,8 @@
      - Using `for` loops, iterate through the arrays and print the elements to the console.
 
 4. Stage, commit, and push changes. Let Git be on your team.
+
+
+## Submission
+
+You will need to submit a pull request for submission.
